@@ -32,7 +32,6 @@
 }
 
 body {
-	width: 1720px;
 	background: #fff;
 	font-family: Montserrat, Arial, serif;
 	color: #222;
@@ -248,7 +247,6 @@ p.over {
 }
 
 form {
-	border: 1px solid;
 	margin-left: 35.2%;
 	margin-top: 130px;
 	text-align: left;
