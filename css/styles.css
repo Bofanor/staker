@@ -84,14 +84,14 @@ nav .search {
 	width: 16px;
 	height: 16px;
 	display: inline-block;
-	background: url(../img/nav-sprite.png) no-repeat 0 0;
+	background: url(../img/search.svg) no-repeat;
 }
 
 nav .menu {
 	width: 15px;
 	height: 13px;
 	display: inline-block;
-	background: url(../img/nav-sprite.png) no-repeat -16px 0;
+	background: url(../img/nav.svg) no-repeat;
 }
 
 h1 {
